@@ -11,7 +11,7 @@
             <Annotations Target="NorthwindModel.Product">
                 <Annotation Term="UI.SelectionFields">
                     <Collection>
-                        <PropertyPath>SupplierID</PropertyPath>
+                        <PropertyPath>ProductID</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
